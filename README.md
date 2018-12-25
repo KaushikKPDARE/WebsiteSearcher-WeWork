@@ -1,6 +1,6 @@
 # WebsiteSearcher-WeWork
 
-Run the file using:  java -jar WebsiteSearcher.jar
+Run the file using:       java -jar WebsiteSearcher.jar
 
 It will ask for output path, please give the output path there.
 
