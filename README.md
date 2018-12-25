@@ -10,4 +10,4 @@ Input Path: https://s3.amazonaws.com/fieldlens-public/urls.txt
 
 Search Term: "log in"
 
-PS: There are some exceptions with SSL certicate validation.
+PS: There are some exceptions with SSL certificate validation.
