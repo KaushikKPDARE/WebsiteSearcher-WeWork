@@ -101,7 +101,7 @@ public class WebsiteSearcher {
 			try {
 				//Increment the thread count to check for 20 threads
 				count.incrementAndGet();
-				String fullUrl = "http://www." + url;
+				String fullUrl = "http://" + url;
 				
 				//Using JSoup library for parsing the HTML page
 				html = Jsoup.connect(fullUrl).timeout(5 * 1000).get().html();
